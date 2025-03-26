@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpKing-CelesteDashMod", "JumpKing-CelesteDashMod.csproj", "{15E463C4-4D90-4A72-8078-1FEB8B4C4F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E463C4-4D90-4A72-8078-1FEB8B4C4F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E463C4-4D90-4A72-8078-1FEB8B4C4F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E463C4-4D90-4A72-8078-1FEB8B4C4F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E463C4-4D90-4A72-8078-1FEB8B4C4F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828ED0F6-B772-48F1-A3E6-84A8296B0B3A}
+	EndGlobalSection
+EndGlobal
